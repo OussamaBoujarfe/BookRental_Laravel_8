@@ -1,0 +1,125 @@
+[
+  {
+	"title": "Things Fall Apart",  
+    "author": "Chinua Achebe",
+	"description": "Descriptions to be copied\n",
+	"released_at": "1958-02-15",
+	"cover_image": "public/uploads/things-fall-apart.jpg",
+	"pages": 209,
+	"language_code": "ENG",
+    "isbn": 1452369875,
+	"in_stock": 23 
+    
+  },
+  {
+	"title": "Fairy tales",  
+    "author": "Hans Christian Andersen",
+	"description": "Descriptions to be copied\n",
+	"released_at": "1836-02-25",
+	"cover_image": "public/uploads/fairy-tales.jpg",
+	"pages": 452,
+	"language_code": "ENG",
+    "isbn": 1986325475,
+	"in_stock": 43 
+	
+  },
+  {
+	  "title": "The Divine Comedy",  
+    "author": "Dante Alighieri",
+	"description": "After his journey has ended, Dante realizes that God&#39s love is eternal. He now fully understands the mystery of Incarnation.\n The answer is blessed upon Dante by God&#39s hand, and now he fully grasps the complete picture of the world. \n Dante&#39s Divine Comedy is a complex work of art. It takes the reader through the nine circles of Hell, the seven terraces of Purgatory and the nine spheres of Paradise. Each of the parts of the journey are full of dead souls who suffer trying to rid themselves of their sins, or simply survive in the afterlife. It is filled with many historical figures, and mystical and mythological creatures.\n",
+	"released_at": "1315-02-25",
+	"cover_image": "public/uploads/the-divine-comedy.jpg",
+	"pages": 928,
+	"language_code": "IT",
+    "isbn": 1977775475,
+	"in_stock": 93 
+	  
+  },
+ 
+  {
+	"title": "Pride and Prejudice",  
+    "author": "Jane Austen",
+	"description": "Descriptions to be copied\n",
+	"released_at": "1813-02-25",
+	"cover_image": "public/uploads/pride-and-prejudice.jpg",
+	"pages": 226,
+	"language_code": "IT",
+    "isbn": 1989874475,
+	"in_stock": 20
+	
+  },
+  {
+	"title": "Le P\u00e8re Goriot",  
+    "author": "Honor\u00e9 de Balzac",
+	"description": "Descriptions to be copied\n",
+	"released_at": "1835-02-25",
+	"cover_image": "public/uploads/le-pere-goriot.jpg",
+	"pages": 443,
+	"language_code": "FR",
+    "isbn": 1989878875,
+	"in_stock": 20
+
+  },
+  {
+	  "title": "Molloy, Malone Dies, The Unnamable, the trilogy",  
+    "author": "Samuel Beckett",
+	"description": "Descriptions to be copied\n",
+	"released_at": "1952-02-25",
+	"cover_image": "public/uploads/molloy-malone-dies-the-unnamable.jpg",
+	"pages": 256,
+	"language_code": "FR",
+    "isbn": 1900118275,
+	"in_stock": 20
+	
+  },
+  {
+	 "title": "The Decameron",  
+    "author": "Giovanni Boccaccio",
+	"description": "Descriptions to be copied\n",
+	"released_at": "1351-04-25",
+	"cover_image": "public/uploads/the-decameron.jpg",
+	"pages": 1024,
+	"language_code": "IT",
+    "isbn": 1989878275,
+	"in_stock": 26
+
+  },
+  {
+	   "title": "Ficciones",  
+    "author": "Jorge Luis Borges",
+	"description": "Descriptions to be copied\n",
+	"released_at": "1965-04-25",
+	"cover_image": "public/uploads/ficciones.jpg",
+	"pages": 224,
+	"language_code": "SPA",
+    "isbn": 1339833275,
+	"in_stock": 26
+	
+   
+  },
+  {
+	  "title": "Wuthering Heights",  
+    "author": "Emily Bront\u00eb",
+	"description": "Descriptions to be copied\n",
+	"released_at": "1847-04-25",
+	"cover_image": "public/uploads/wuthering-heights.jpg",
+	"pages": 342,
+	"language_code": "ENG",
+    "isbn": 1989833275,
+	"in_stock": 26
+  },
+  {
+	  "title": "The Stranger",  
+    "author": "Albert Camus",
+	"description": "Descriptions to be copied\n",
+	"released_at": "1942-04-25",
+	"cover_image": "public/uploads/l-etranger.jpg",
+	"pages": 185,
+	"language_code": "FR",
+    "isbn": 1989899995,
+	"in_stock": 26
+	
+   
+  }
+  
+]
