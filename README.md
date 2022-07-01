@@ -1,12 +1,18 @@
 please run first these commands:
+
 composer update (install first the composer!!)
+
 php artisan migrate
+
 php artisan storage:link
+
 php artisan db:seed
+
 npm install
+
 php artisan serve
 
-Task is to implement a very simple online book rental system (BRS).
+The Task is to implement an online book rental system (BRS).
 
 There are functions which are open for anonymous users. They can
 
